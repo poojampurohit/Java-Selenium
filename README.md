@@ -1,2 +1,1 @@
-# github-cucumber-selenium
-github-cucumber-selenium
+Java learning materials
